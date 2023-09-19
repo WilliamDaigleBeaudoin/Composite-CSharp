@@ -1,0 +1,16 @@
+E:\2020\Projet Inte\Projet1\Projet1\Projet1\bin\Debug\net5.0\Projet1.exe
+E:\2020\Projet Inte\Projet1\Projet1\Projet1\bin\Debug\net5.0\Projet1.deps.json
+E:\2020\Projet Inte\Projet1\Projet1\Projet1\bin\Debug\net5.0\Projet1.runtimeconfig.json
+E:\2020\Projet Inte\Projet1\Projet1\Projet1\bin\Debug\net5.0\Projet1.runtimeconfig.dev.json
+E:\2020\Projet Inte\Projet1\Projet1\Projet1\bin\Debug\net5.0\Projet1.dll
+E:\2020\Projet Inte\Projet1\Projet1\Projet1\bin\Debug\net5.0\ref\Projet1.dll
+E:\2020\Projet Inte\Projet1\Projet1\Projet1\bin\Debug\net5.0\Projet1.pdb
+E:\2020\Projet Inte\Projet1\Projet1\Projet1\obj\Debug\net5.0\Projet1.csproj.AssemblyReference.cache
+E:\2020\Projet Inte\Projet1\Projet1\Projet1\obj\Debug\net5.0\Projet1.GeneratedMSBuildEditorConfig.editorconfig
+E:\2020\Projet Inte\Projet1\Projet1\Projet1\obj\Debug\net5.0\Projet1.AssemblyInfoInputs.cache
+E:\2020\Projet Inte\Projet1\Projet1\Projet1\obj\Debug\net5.0\Projet1.AssemblyInfo.cs
+E:\2020\Projet Inte\Projet1\Projet1\Projet1\obj\Debug\net5.0\Projet1.csproj.CoreCompileInputs.cache
+E:\2020\Projet Inte\Projet1\Projet1\Projet1\obj\Debug\net5.0\Projet1.dll
+E:\2020\Projet Inte\Projet1\Projet1\Projet1\obj\Debug\net5.0\ref\Projet1.dll
+E:\2020\Projet Inte\Projet1\Projet1\Projet1\obj\Debug\net5.0\Projet1.pdb
+E:\2020\Projet Inte\Projet1\Projet1\Projet1\obj\Debug\net5.0\Projet1.genruntimeconfig.cache
